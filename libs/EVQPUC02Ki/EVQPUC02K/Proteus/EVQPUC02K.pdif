@@ -1,0 +1,140 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "EVQPUC02K"
+   (description "PANASONIC ELECTRONIC COMPONENTS - EVQPUC02K - TACTILE SW, SPST-NO, 0.05A, 12V, SMD")
+   (family "SWI")
+   (package "EVQPUC02K")
+   (attribute "Datasheet Link" "https://industrial.panasonic.com/ac/cdn/e/control/switch/light-touch/catalog/sw_lt_eng_smalls_side.pdf")
+   (attribute "Geometry.Height" "1.95mm")
+   (attribute "Manufacturer_Name" "Panasonic")
+   (attribute "Manufacturer_Part_Number" "EVQPUC02K")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "EVQPUC02K")
+    (pin "NO_1" 1 PS)
+    (pin "COM_1" 2 PS)
+    (pin "NO_2" 3 PS)
+    (pin "COM_2" 4 PS)
+   )
+  )
+  (symbol "EVQPUC02K"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "EVQPUC02K"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.35 1.75)
+      (pt 2.35 1.75)
+      (pt 2.35 -1.75)
+      (pt -2.35 -1.75)
+      (pt -2.35 1.75))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.4 2.75)
+      (pt 5 2.75)
+      (pt 5 -2.75)
+      (pt -4.4 -2.75)
+      (pt -4.4 2.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2.35 1.75)
+      (pt 2.35 1.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2.35 -1.75)
+      (pt 2.35 -1.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 3.9 0.8)
+      (arc (pt 3.900 0.800) (pt 3.800 0.800) (pt 4.000 1.000) (start -180.0) (sweep -90.0))
+      (pt 3.9 1)
+      (arc (pt 3.900 1.000) (pt 3.800 0.800) (pt 4.000 1.000) (start -180.0) (sweep 90.0))
+      (pt 3.9 0.8))))
+   (leg 1 (pt 2.625 0.850) (padstack 0))
+   (leg 2 (pt 2.625 -0.850) (padstack 0))
+   (leg 3 (pt -2.625 -0.850) (padstack 0))
+   (leg 4 (pt -2.625 0.850) (padstack 0))
+   (leg 5 (pt 0.000 0.850) (padstack 5))
+   (leg 6 (pt 0.000 -0.850) (padstack 6))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.000 1.550 0 0 0.000))
+   )
+   (padstack 5
+    (hole 0.85)
+    (plated false)
+    (pad (layer TCOP) (round 0.425))
+    (pad (layer INNER) (round 0.425))
+    (pad (layer BCOP) (round 0.425))
+   )
+   (padstack 6
+    (hole 0.85)
+    (plated false)
+    (pad (layer TCOP) (round 0.425))
+    (pad (layer INNER) (round 0.425))
+    (pad (layer BCOP) (round 0.425))
+   )
+   (model "EVQPUC02K.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

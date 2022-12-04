@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M41T62LC6F
+D Real Time Clock Serial real-time clocks with alarm
+K
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00019860.pdf
+$ENDCMP
+#
+#End Doc Library

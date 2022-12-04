@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EVQPUC02K
+D PANASONIC ELECTRONIC COMPONENTS - EVQPUC02K - TACTILE SW, SPST-NO, 0.05A, 12V, SMD
+K
+F https://industrial.panasonic.com/ac/cdn/e/control/switch/light-touch/catalog/sw_lt_eng_smalls_side.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,20 @@
+.EVQPUC02K :1 ;PANASONIC ELECTRONIC COMPONENTS - EVQPUC02K - TACTILE SW, SPST-NO, 0.05A, 12V, SMD
+EVQPUC02K
+*STM S
+*NGS
+*PLB 1="NO_1" 2="COM_1" 3="NO_2" 4="COM_2"
+*MXP 6
+*DFN EVQPUC02K
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (EVQPUC02K)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://industrial.panasonic.com/ac/cdn/e/control/switch/light-touch/catalog/sw_lt_eng_smalls_side.pdf)
+~!Height (1.95mm)
+~!3D_Model (EVQPUC02K)
+EVQPUC02K
+1.1!U 2.1!U 3.1!U 4.1!U 
