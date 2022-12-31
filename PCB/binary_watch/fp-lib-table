@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "libs")(type "KiCad")(uri "C:/nobackup/personal/pcb/2022/upwork/5-franck-binary-watch/binary-watch/libs")(options "")(descr ""))
+  (lib (name "CSD16406Q3_fp")(type "KiCad")(uri "C:/nobackup/personal/pcb/2022/upwork/5-franck-binary-watch/binary-watch/libs/CSD16406Q3_fp")(options "")(descr ""))
+  (lib (name "CSD16406Q3")(type "KiCad")(uri "C:/nobackup/personal/pcb/2022/upwork/5-franck-binary-watch/binary-watch/libs/CSD16406Q3_fp")(options "")(descr ""))
+  (lib (name "M41T62LC6F")(type "KiCad")(uri "C:/nobackup/personal/pcb/2022/upwork/5-franck-binary-watch/binary-watch/libs/M41T62LC6F")(options "")(descr ""))
+  (lib (name "ECS-160-12-33-AGN-TR")(type "KiCad")(uri "C:/nobackup/personal/pcb/2022/upwork/5-franck-binary-watch/binary-watch/libs/ECS-160-12-33-AGN-TR")(options "")(descr ""))
+  (lib (name "EVQPUC02K")(type "KiCad")(uri "C:/nobackup/personal/pcb/2022/upwork/5-franck-binary-watch/binary-watch/libs/EVQPUC02K")(options "")(descr ""))
+)

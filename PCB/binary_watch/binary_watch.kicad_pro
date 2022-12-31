@@ -367,7 +367,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "binary_watch.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

@@ -1,4 +1,4 @@
-20550455387027223
+20560484569206213
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2372,6 +2372,20 @@ speaker CUI
 0
 2
 2
+CSD16406Q3
+TRANS_CSD16406Q3
+<b>8-SON</b> (Q3)<p>body 3.3 x 3.3 mm
+
+0
+8
+8
+CSD16406Q3_fp
+TRANS_CSD16406Q3
+<b>8-SON</b> (Q3)<p>body 3.3 x 3.3 mm
+
+0
+8
+8
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -52142,6 +52156,20 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ECS-160-12-33-AGN-TR
+XTAL_ECS-160-12-33-AGN-TR
+
+
+0
+4
+4
+EVQPUC02K
+EVQPUC02K
+EVQPUC02K-1
+Switch
+0
+4
+4
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -57875,6 +57903,13 @@ Yellow 5381 Series LED
 0
 2
 2
+M41T62LC6F
+M41T62LC6F
+LCC8
+Integrated Circuit
+0
+8
+8
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -86288,6 +86323,13 @@ varistor
 0
 2
 2
+libs
+3d-USB_Micro-B_Amphenol_10118194_Horizontal
+USB Micro-B receptacle, horizontal, SMD, 10118194, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf
+USB Micro B horizontal SMD
+0
+17
+6
 qr
 2-QR-Hearth-1
 

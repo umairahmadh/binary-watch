@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "NTR4501NT1G")(type "KiCad")(uri "C:/nobackup/personal/pcb/2022/upwork/5-franck-binary-watch/binary-watch/libs/NTR4501NT1G/NTR4501NT1G.kicad_sym")(options "")(descr ""))
   (lib (name "CSD16406Q3")(type "Legacy")(uri "C:/nobackup/personal/pcb/2022/upwork/5-franck-binary-watch/binary-watch/libs/CSD16406Q3/CSD16406Q3.lib")(options "")(descr ""))
+  (lib (name "ECS-160-12-33-AGN-TR")(type "KiCad")(uri "C:/nobackup/personal/pcb/2022/upwork/5-franck-binary-watch/binary-watch/libs/ECS-160-12-33-AGN-TR/ECS-160-12-33-AGN-TR.kicad_sym")(options "")(descr ""))
 )
